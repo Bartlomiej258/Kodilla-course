@@ -8,3 +8,5 @@ out/
 /kodilla-exception/build/
 /kodilla-stream/build/
 /kodilla-testing/build/
+/kodilla-testing/gradle/
+/kodilla-stream/gradle/
