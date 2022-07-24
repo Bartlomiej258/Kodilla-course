@@ -5,3 +5,6 @@
 out/
 .gradle
 /build
+/kodilla-exception/build/
+/kodilla-stream/build/
+/kodilla-testing/build/
